@@ -1,0 +1,48 @@
+students {
+    display: block;
+    font-family: Verdana;
+    background-color: lavender;
+    padding: 25px;
+    border: 3px solid purple;
+}
+
+student {
+    display: block;
+    background-color: aliceblue;
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+usn, name, college, programme, year, email {
+    display: block;
+    padding: 6px;
+    color: darkgreen;
+    font-size: 16px;
+}
+
+name {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkred;
+}
+
+college {
+    font-weight: bold;
+    color: navy;
+}
+
+programme {
+    color: darkmagenta;
+}
+
+year {
+    color: darkorange;
+    font-style: italic;
+}
+
+email {
+    color: blue;
+    text-decoration: underline;
+}
