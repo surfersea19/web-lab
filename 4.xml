@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<students>
+    <student>
+        <usn>1TE001</usn>
+        <name>VARUN SHARMA</name>
+        <college>BMSIT Engineering College</college>
+        <programme>Computer Science</programme>
+        <year>2026</year>
+        <email>varung@gmail.com</email>
+    </student>
+
+    <student>
+        <usn>1TE002</usn>
+        <name>Priya Sharma</name>
+        <college>BMSIT Engineering College</college>
+        <programme>Information Science</programme>
+        <year>2023</year>
+        <email>priya@gmail.com</email>
+    </student>
+
+    <student>
+        <usn>1TE003</usn>
+        <name>Rahul Kumar</name>
+        <college>BMSIT Engineering College</college>
+        <programme>Electronics Engineering</programme>
+        <year>2022</year>
+        <email>rahul@gmail.com</email>
+    </student>
+</students>
+
+
